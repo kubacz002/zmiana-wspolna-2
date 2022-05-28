@@ -4,7 +4,7 @@ class program
 {
     public static void main(string args[])
     {
-        console.writeLine("witaj w kursie git, jak się nazywasz ?");
+        console.writeLine("witaj w kursie git, jak masz na imię ?");
         string name = console.readLine();
         if(name.length != 0){
             console.writeLine("Witaj na pokładzie, " + name);
