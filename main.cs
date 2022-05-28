@@ -10,7 +10,7 @@ class program
             console.writeLine("Witaj na pokładzie, " + name);
         }
         else{
-            console.writeLine("dlaczego nie chcesz się przedstawic ?");
+            console.writeLine("dlaczego nie chcesz się przedstawic ? Nie podoba ci się mój program ?");
         }
     }
 }
